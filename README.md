@@ -1,1 +1,3 @@
 # Precision-Image-Segmentation-using-Unet
+This project presents an approach for Precision Image Segmentation using MobileNetV2 basedUNet model. Employing the concept of transfer learning, the proposed method utilizes theUNet architecture, a deep neural network with
+a nested U-structure designed for detecting prominent objects in images. MobileNetV2 serves as the backbone or encoder for feature extraction which is a convolutional neural network that is 53 layers deep and is trained on more than one million image from ImageNet databaset. The proposed method is trained and evaluated on CamVid Dataset.
